@@ -1,16 +1,7 @@
-# instagram_ui
+# Instagram UI em flutter
 
-A new Flutter project.
+Instagram UI in flutter
 
-## Getting Started
+Projeto feito 100% em flutter com as abas básicas do aplicativo Instagram, não possui Firebase, mas possui as funcionalidades básicas do aplicativo.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Project made 100% in flutter with Instagram basic screens, does not have Firebase, but it has all basic funcions from the app.
